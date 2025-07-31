@@ -4,6 +4,22 @@ LcVault is a full-stack web app that allows users to securely **log in to LeetCo
 
 ---
 
+## 📸 Preview
+
+
+<p align="center">
+  <img width="49%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e1f9ecfd-f56c-4451-af6f-1e91a2b9398b" />
+  <img width="49%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c7b02982-b6f3-431c-8e79-7c8a86c8acc8" />
+</p>
+
+---
+
+<p align="center">
+  <img width="70%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/88b07a85-cec0-4ad7-9af8-6fcd244a0de3" />
+</p>
+
+---
+
 ## 📦 Features
 
 - 🧠 **LeetCode Login via Browser Automation**
@@ -23,7 +39,7 @@ LcVault is a full-stack web app that allows users to securely **log in to LeetCo
 | Backend    | Node.js + Express.js     |
 | Scraping   | Puppeteer (Headful login)|
 | Database   | MongoDB                  |
-|------------|--------------------------|
+
 ---
 
 ## ⚙️ How It Works
@@ -58,13 +74,23 @@ npm install
 npm run dev
 ```
 
+---
+
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
+
+
 
 ## 🛡️ Disclaimer
 This tool is for educational and personal use only.
 LeetCode's official API is not used — scraping is done via browser automation.
 
+---
+
 ## 📌 Note
-🔒 Backend/API is private for security reasons.
-If you're interested in accessing the backend or API, feel free to contact me directly.
+### 🔒 Backend/API is private for security reasons.
+#### If you're interested in accessing the backend or API, feel free to contact me directly.
+
+---
+
+### 🧑‍💻 Made with ❤️ by Alok Jha
